@@ -1,0 +1,23 @@
+<template>
+    <div>
+        <v-list>
+            <v-list-item-group>
+                <v-list-item>
+                    <v-list-item-content>
+                        <v-list-item-title>使用技術：vue.js, vuetify</v-list-item-title>
+                    </v-list-item-content>
+                </v-list-item>
+                <v-list-item>
+                    <v-list-item-content>
+                        <v-list-item-title>苦労したこと：久々に触った。時間がなかった。</v-list-item-title>
+                    </v-list-item-content>
+                </v-list-item>
+                <v-list-item>
+                    <v-list-item-content>
+                        <v-list-item-title>所要時間：1日ぐらい</v-list-item-title>
+                    </v-list-item-content>
+                </v-list-item>
+            </v-list-item-group>
+        </v-list>
+    </div>
+</template>
